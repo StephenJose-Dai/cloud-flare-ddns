@@ -14,7 +14,7 @@
 
 ###### 3、修改“auth_email”、“auth_key”、“zone_id”、“record_name”和IPV4的“local record_id”以及IPV6的“local record_id”六个参数的值。    
 
-详细使用文档请访问 https://www.daishenghui.club 进行查看
+详细使用文档请访问 https://daishenghui.club/2024/02/14/categories/Linux/K2-Padavan-Cloudflare%E5%AE%9E%E7%8E%B0DDNS/ 进行查看
 
 #### 参与贡献
 
